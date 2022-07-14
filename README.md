@@ -1,5 +1,5 @@
 # Kangog-Github-Desktop
 
-Can't push to github
-Kangog
-change in new branch
+1.Can't push to github Kangog
+2.change in new branch
+3.change in subnew branch

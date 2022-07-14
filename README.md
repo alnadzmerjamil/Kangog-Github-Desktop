@@ -1,5 +1,5 @@
 # Kangog-Github-Desktop
 
-Can't push to github
-Kangog
-change in new branch
+Made in New branch:
+1.Add contact number
+2.Add email address

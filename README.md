@@ -8,3 +8,7 @@ Made in Subnew branch :
 1.Personal information
 2.Add school background
 3.Add achievements
+
+Made in AnotherNew :
+1.Add connections
+2.Add talent
